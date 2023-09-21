@@ -53,10 +53,12 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Deployed-URL
 
+https://raquel-t.github.io/React-portfolio/ 
+
 
 ## Mock-Up
 
-Demo:
+![DEMO](<Raquel Portfolio.gif>)
 
 ## Usage
 
@@ -100,6 +102,7 @@ For any questions, please contact me at the following links:
 * [fontawesome](https://fontawesome.com/)
 * [freeCodeCamp/How to Build a Portfolio Website with React](https://www.freecodecamp.org/news/build-portfolio-website-react/)
 * [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+* [GitHub Pages Deployment](https://create-react-app.dev/docs/deployment/#github-pages)
 
 ## Credits
 * [GreatStack - How To Make Portfolio Website Using React JS/Create React Portfolio Website](https://www.youtube.com/watch?v=4ag1LsgIUc0)
