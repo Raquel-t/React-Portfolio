@@ -73,7 +73,7 @@ Replace my-app-name with your desired project name. Once download is complete cd
 
 ## Installation
 
-The following npm dependencies were installed to this project: [npm bootstrap](https://www.npmjs.com/package/bootstrap) & [npm Font Awesome](https://www.npmjs.com/package/font-awesome)
+The following npm dependencies were installed to this project: [npm bootstrap](https://www.npmjs.com/package/bootstrap), [npm Font Awesome](https://www.npmjs.com/package/font-awesome) & [npm gh-pages](https://www.npmjs.com/package/gh-pages)
 
 
 ## Badges
