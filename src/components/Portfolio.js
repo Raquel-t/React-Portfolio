@@ -37,6 +37,13 @@ function Portfolio() {
             repoUrl: "https://github.com/Raquel-t/Notes-App",
             deployedUrl: "https://note-star-0fe390a57bff.herokuapp.com/"
         },
+        {
+            title: 'Rememories',
+            description: "Team Project 3",
+            imageUrl: process.env.PUBLIC_URL + "/assets/Images/re-memorise-screenshot.png",
+            repoUrl: "https://github.com/kmarie0420/Project-Guess",
+            deployedUrl: "https://re-memories-9f0bf0e2d465.herokuapp.com/",
+        },
     ];
 
     return (
